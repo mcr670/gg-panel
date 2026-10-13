@@ -1,0 +1,18 @@
+GGNODES PANEL — PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2026 GGNodes. All rights reserved.
+
+This repository contains a custom GGNodes panel prototype and its starter license API.
+Unless you have a separate written agreement from the copyright holder, permission is
+limited to viewing, testing, and running the software for your own evaluation or internal
+use. You may not sell, sublicense, redistribute, publish modified copies, or offer the
+software as a competing hosted panel without written permission from the copyright holder.
+
+A valid activation key grants only the usage rights stated in the applicable purchase or
+license agreement. Activation does not transfer ownership or copyright. The license API
+starter is provided as an implementation example and is not a guarantee of production
+security, payment processing, or legal compliance.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT EXPRESS OR IMPLIED WARRANTIES, TO THE MAXIMUM
+EXTENT PERMITTED BY APPLICABLE LAW. These starter terms are not legal advice. Obtain legal
+review and replace them with terms that match your intended distribution and local law
+before selling or distributing the panel commercially.
